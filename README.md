@@ -1,2 +1,0 @@
-# eventtuss
-trial task

@@ -1,5 +1,8 @@
 require "myproject/version"
+require "myproject/os_dependecies"
+require "myproject/listing_server"
 
 module Myproject
-  # Your code goes here...
+  require "myproject/railtie.rb" if defined?(Rails)
 end
+

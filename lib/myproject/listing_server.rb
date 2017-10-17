@@ -2,7 +2,6 @@ require 'httparty'
 require 'json'
 
 class ListingServer
-  include HTTParty
 
  base_uri 'http://showDependecies'
 

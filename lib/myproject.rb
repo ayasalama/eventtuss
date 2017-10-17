@@ -1,5 +1,5 @@
 require "myproject/version"
-require "myproject/os_dependecies"
+require "myproject/os_detector"
 require "myproject/listing_server"
 
 module Myproject
